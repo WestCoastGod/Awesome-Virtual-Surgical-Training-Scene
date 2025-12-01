@@ -98,4 +98,4 @@ Simulation platforms built on Unity engine for surgical training and VR applicat
 
 ## Contributing
 
-Contributions are welcome! Please feel free to submit a Pull Request.
+Contributions are welcome! Feel free to submit a Pull Request.
