@@ -1,6 +1,6 @@
 # Awesome-Virtual-Surgical-Training-Scene
 
-A curated collection of simulation platforms, datasets, and papers related to virtual surgical training environments, with emphasis on robotics simulation and AI/AR-assisted surgical training.
+A curated collection of simulation platforms, datasets, and papers related to virtual surgical training environments, with emphasis on robotics simulation and AI/AR-assisted surgical training. asdasd
 
 ## Contents
 
