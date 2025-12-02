@@ -1,4 +1,4 @@
-# Awesome-Virtual-Surgical-Training-Scene
+# Awesome-Virtual-Surgical-Training-Environment
 
 A collection of simulation platforms and papers related to virtual surgical training environments, with emphasis on AI/AR-assisted surgical training.
 
